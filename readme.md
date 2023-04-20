@@ -2,4 +2,4 @@
 
 I know how to push modifications to Github
 
-just testing
+I know how to merge conflicts
