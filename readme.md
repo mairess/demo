@@ -1,1 +1,1 @@
-Learnign Github
+Learning Github
